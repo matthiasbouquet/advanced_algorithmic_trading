@@ -28,6 +28,3 @@ desktop.ini
 .idea/
 *.swp
 *.swo
-
-# data files
-*.csv
